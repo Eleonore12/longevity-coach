@@ -1,4 +1,4 @@
-# Longevity Coach — a Claude skill
+# Longevity Coach: a Claude skill
 
 A personal longevity and well-being coach for Claude. It recommends varied training across heart-rate zones 1–5:
 - zone 2 endurance
@@ -8,6 +8,20 @@ A personal longevity and well-being coach for Claude. It recommends varied train
 - mobility, flow and yoga
 
 It also suggests recovery and well-being practices: sauna, cold plunge, breathwork and meditation. Each recommendation builds on what you did before.
+
+## Why this skill?
+
+Most fitness coaching apps are built around aesthetics: losing weight or gaining muscle mass. This skill is built around a different goal: staying strong, capable and energetic for as many years as possible.
+
+It focuses on longevity, healthspan and well-being, the qualities that best predict how well you’ll live in your 60s, 70s and beyond:
+
+- Cardiorespiratory fitness (VO2max), one of the strongest predictors of long-term health
+- A deep aerobic base built with zone 2 training
+- Strength, stability and balance to stay independent and injury-free
+- Mobility to keep moving freely
+-Recovery and nervous-system balance through sauna, cold exposure, breathwork, meditation and sleep
+
+The aim isn’t a number on the scale or a summer body. It’s a body and a mind that keep working well for decades.
 
 ## How it works
 - **First use:** a short questionnaire of about 3 minutes, covering profile, fitness, goals, equipment, health and supplements.
