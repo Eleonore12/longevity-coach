@@ -67,3 +67,6 @@ longevity-coach/
     ├── exercise-links.md       # verified demo videos/articles + form cues
     └── safety.md               # contraindications & supplement guardrails
 ```
+
+## License
+[MIT](LICENSE) — free to use, adapt and share, with attribution. Linked videos and articles belong to their respective creators.
