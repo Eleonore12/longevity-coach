@@ -1,0 +1,8 @@
+# Never commit personal data or test outputs
+*-workspace/
+*.skill
+*.zip
+profile*.json
+log*.json
+.DS_Store
+test-results*.html
