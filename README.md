@@ -37,8 +37,12 @@ The aim isn’t a number on the scale or a summer body. It’s a body and a mind
 
 ## Install
 **Claude app (web, desktop or mobile):**
-1. Download this repository as a ZIP, or ask its owner for `longevity-coach.zip`.
-2. Go to Settings → Capabilities → Skills → Upload skill, and select the zip of the `longevity-coach` folder.
+1. Download **[longevity-coach-skill.zip](https://github.com/Eleonore12/longevity-coach/releases/latest/download/longevity-coach-skill.zip)** from the latest release.
+2. In Claude, go to Settings → Capabilities → Skills → **Upload skill**, and select the zip. Make sure "Code execution and file creation" is enabled.
+3. Connect Notion (Settings → Connectors → Notion). A personal workspace is recommended.
+4. Start a new chat and ask: *"What should I do today?"*
+
+The skill syncs to all your devices, mobile included.
 
 **Claude Code:** copy the `longevity-coach` folder into `~/.claude/skills/`.
 
